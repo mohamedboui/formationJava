@@ -22,7 +22,7 @@ public class Main {
 		    e1.setFirstName("med");
 		    e1.setLastName("e1");
 		    SubEmploye e2=new SubEmploye();
-		    e2.setFirstName("coco");
+		    e2.setFirstName("cocodddddd");
 		    e2.setLastName("e2");
 		    e2.setVal(5);
 		    session.persist(e1);
